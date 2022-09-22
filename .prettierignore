@@ -1,0 +1,5 @@
+/node_modules
+.next
+*.jsx
+*.tsx
+*.config.js

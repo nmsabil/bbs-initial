@@ -1,0 +1,112 @@
+@font-face {
+	font-family: 'TJ Evolette A Basic';
+	src: url('/typefaces/JEvoletteABasic/TJEvoletteABasic-Thin.otf') format('truetype');
+	font-weight: 300;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TJ Evolette A Basic';
+	src: url('/typefaces/JEvoletteABasic/TJEvoletteABasic-Normal.otf') format('truetype');
+	font-weight: 400;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TJ Evolette A Basic';
+	src: url('/typefaces/JEvoletteABasic/TJEvoletteABasic-Normal.otf') format('truetype');
+	font-weight: 500;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TJ Evolette A Basic';
+	src: url('/typefaces/JEvoletteABasic/TJEvoletteABasic-Black.otf') format('truetype');
+	font-weight: 600;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TJ Evolette A Basic';
+	src: url('/typefaces/JEvoletteABasic/TJEvoletteABasic-Black.otf') format('truetype');
+	font-weight: 700;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TJ Evolette A Basic';
+	src: url('/typefaces/JEvoletteABasic/TJEvoletteABasic-Black.otf') format('truetype');
+	font-weight: 800;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TJ Evolette A Basic';
+	src: url('/typefaces/JEvoletteABasic/TJEvoletteABasic-Black.otf') format('truetype');
+	font-weight: 900;
+	font-display: swap;
+	font-style: normal;
+}
+
+/* AktivGrotesk */
+@font-face {
+	font-family: 'Aktiv Grotesk';
+	src: url('/typefaces/AktivGrotesk/AktivGroteskLight.ttf') format('truetype');
+	font-weight: 300;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Aktiv Grotesk';
+	src: url('/typefaces/AktivGrotesk/AktivGrotesk.ttf') format('truetype');
+	font-weight: 400;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Aktiv Grotesk';
+	src: url('/typefaces/AktivGrotesk/AktivGroteskMedium.ttf') format('truetype');
+	font-weight: 500;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Aktiv Grotesk';
+	src: url('/typefaces/AktivGrotesk/AktivGroteskBold.ttf') format('truetype');
+	font-weight: 600;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Aktiv Grotesk';
+	src: url('/typefaces/AktivGrotesk/AktivGroteskBold.ttf') format('truetype');
+	font-weight: 700;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Aktiv Grotesk';
+	src: url('/typefaces/AktivGrotesk/AktivGroteskBold.ttf') format('truetype');
+	font-weight: 800;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Aktiv Grotesk';
+	src: url('/typefaces/AktivGrotesk/AktivGroteskBold.ttf') format('truetype');
+	font-weight: 900;
+	font-display: swap;
+	font-style: normal;
+}
